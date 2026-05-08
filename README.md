@@ -15,6 +15,7 @@
 
 | # | Topic | Status |
 |---|-------|--------|
+| — | **— Module 1: Networking Devices & Fundamentals —** | |
 | 01 | [OSI Model](./01-OSI-Model/notes.md) | ✅ Complete |
 | 02 | [Routers](./02-Devices/routers.md) | ✅ Complete |
 
@@ -24,11 +25,12 @@
 | 06 | [Load Balancers](./02-Devices/load-balancers.md) | ✅ Complete |
 | 07 | [Proxies](./02-Devices/proxies.md) | ✅ Complete |
 | 08 | [NAS & SAN](./02-Devices/nas-san.md) | ✅ Complete |
-| 09 | TCP/IP Model | 🔄 Coming soon |
-| 09 | Subnetting | 🔄 Coming soon |
-| 10 | VLANs | 🔄 Coming soon |
-| 11 | DNS & DHCP | 🔄 Coming soon |
-| 12 | Network Protocols (HTTP, FTP, SSH) | 🔄 Coming soon |
+| — | **— Module 2: Core Networking Concepts —** | |
+| 09 | [TCP/IP Model](./03-TCP-IP/notes.md) | ✅ Complete |
+| 10 | [Subnetting](./05-Subnetting/notes.md) | 🔄 Coming soon |
+| 11 | [VLANs](./03-TCP-IP/vlans.md) | 🔄 Coming soon |
+| 12 | [DNS & DHCP](./04-Protocols/dns-dhcp.md) | 🔄 Coming soon |
+| 13 | [Network Protocols — HTTP, FTP, SSH](./04-Protocols/network-protocols.md) | 🔄 Coming soon |
 
 ---
 
@@ -100,7 +102,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[████████░░░░░░░░░░░░] 8/20 topics complete
+[█████████░░░░░░░░░░░] 9/20 topics complete
 ```
 
 Updated as new topics are added. Follow along!
