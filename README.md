@@ -27,7 +27,7 @@
 | 08 | [NAS & SAN](./02-Devices/nas-san.md) | ✅ Complete |
 | — | **— Module 2: Core Networking Concepts —** | |
 | 09 | [TCP/IP Model](./03-TCP-IP/notes.md) | ✅ Complete |
-| 10 | [Subnetting](./05-Subnetting/notes.md) | 🔄 Coming soon |
+| 10 | [Subnetting](./05-Subnetting/notes.md) | ✅ Complete |
 | 11 | [VLANs](./03-TCP-IP/vlans.md) | 🔄 Coming soon |
 | 12 | [DNS & DHCP](./04-Protocols/dns-dhcp.md) | 🔄 Coming soon |
 | 13 | [Network Protocols — HTTP, FTP, SSH](./04-Protocols/network-protocols.md) | 🔄 Coming soon |
@@ -102,7 +102,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[█████████░░░░░░░░░░░] 9/20 topics complete
+[██████████░░░░░░░░░░] 10/20 topics complete — halfway there! 🎯
 ```
 
 Updated as new topics are added. Follow along!
