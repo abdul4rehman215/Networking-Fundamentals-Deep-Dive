@@ -7,7 +7,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active%20%7C%20Daily%20Updates-1D9E75?style=flat)
 ![Topics](https://img.shields.io/badge/Topics%20Covered-12-378ADD?style=flat)
-![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat
+![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat)
 
 ---
 
