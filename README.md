@@ -6,8 +6,8 @@
 **Author:** Musfira Zafar · [LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · [GitHub](https://github.com/MUSFIRA-ZAFAR)
 
 ![Status](https://img.shields.io/badge/Status-Active%20%7C%20Daily%20Updates-1D9E75?style=flat)
-![Topics](https://img.shields.io/badge/Topics%20Covered-11-378ADD?style=flat)
-![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat)
+![Topics](https://img.shields.io/badge/Topics%20Covered-12-378ADD?style=flat)
+![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat
 
 ---
 
@@ -18,6 +18,7 @@
 | — | **— Module 1: Networking Devices & Fundamentals —** | |
 | 01 | [OSI Model](./01-OSI-Model/notes.md) | ✅ Complete |
 | 02 | [Routers](./02-Devices/routers.md) | ✅ Complete |
+
 | 03 | [Switches](./02-Devices/switches.md) | ✅ Complete |
 | 04 | [Firewalls](./02-Devices/firewalls.md) | ✅ Complete |
 | 05 | [IDS & IPS](./02-Devices/ids-ips.md) | ✅ Complete |
@@ -28,7 +29,7 @@
 | 09 | [TCP/IP Model](./03-TCP-IP/notes.md) | ✅ Complete |
 | 10 | [Subnetting](./05-Subnetting/notes.md) | ✅ Complete |
 | 11 | [VLANs](./03-TCP-IP/vlans.md) | ✅ Complete |
-| 12 | [DNS & DHCP](./04-Protocols/dns-dhcp.md) | 🔄 Coming soon |
+| 12 | [DNS & DHCP](./04-Protocols/dns-dhcp.md) | ✅ Complete |
 | 13 | [Network Protocols — HTTP, FTP, SSH](./04-Protocols/network-protocols.md) | 🔄 Coming soon |
 
 ---
@@ -101,7 +102,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[███████████░░░░░░░░░] 11/20 topics complete
+[████████████░░░░░░░░] 12/20 topics complete
 ```
 
 Updated as new topics are added. Follow along!
