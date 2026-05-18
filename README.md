@@ -6,7 +6,7 @@
 **Author:** Musfira Zafar · [LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · [GitHub](https://github.com/MUSFIRA-ZAFAR)
 
 ![Status](https://img.shields.io/badge/Status-Active%20%7C%20Daily%20Updates-1D9E75?style=flat)
-![Topics](https://img.shields.io/badge/Topics%20Covered-13-378ADD?style=flat)
+![Topics](https://img.shields.io/badge/Topics%20Covered-14-378ADD?style=flat)
 ![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat)
 
 ---
@@ -30,6 +30,12 @@
 | 11 | [VLANs](./03-TCP-IP/vlans.md) | ✅ Complete |
 | 12 | [DNS & DHCP](./04-Protocols/dns-dhcp.md) | ✅ Complete |
 | 13 | [Network Protocols — HTTP, FTP, SSH](./04-Protocols/network-protocols.md) | ✅ Complete |
+| — | **— Module 3: SOC-Focused Networking —** | |
+| 14 | [Wireless Networking](./06-Wireless/notes.md) | ✅ Complete |
+| 15 | [VPNs](./06-Wireless/vpns.md) | 🔄 Coming soon |
+| 16 | [Network Monitoring](./07-Monitoring/notes.md) | 🔄 Coming soon |
+| 17 | [SIEM Basics](./07-Monitoring/siem.md) | 🔄 Coming soon |
+| 18 | [Incident Response Fundamentals](./07-Monitoring/incident-response.md) | 🔄 Coming soon |
 
 ---
 
@@ -101,7 +107,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[█████████████░░░░░░░] 13/20 topics complete — 🎉 Module 2 Complete!
+[██████████████░░░░░░] 14/20 topics complete
 ```
 
 Updated as new topics are added. Follow along!
