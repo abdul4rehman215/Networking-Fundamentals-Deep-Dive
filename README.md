@@ -6,7 +6,7 @@
 **Author:** Musfira Zafar · [LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · [GitHub](https://github.com/MUSFIRA-ZAFAR)
 
 ![Status](https://img.shields.io/badge/Status-Active%20%7C%20Daily%20Updates-1D9E75?style=flat)
-![Topics](https://img.shields.io/badge/Topics%20Covered-14-378ADD?style=flat)
+![Topics](https://img.shields.io/badge/Topics%20Covered-15-378ADD?style=flat)
 ![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat)
 
 ---
@@ -18,7 +18,6 @@
 | — | **— Module 1: Networking Devices & Fundamentals —** | |
 | 01 | [OSI Model](./01-OSI-Model/notes.md) | ✅ Complete |
 | 02 | [Routers](./02-Devices/routers.md) | ✅ Complete |
-| 03 | [Switches](./02-Devices/switches.md) | ✅ Complete |
 | 04 | [Firewalls](./02-Devices/firewalls.md) | ✅ Complete |
 | 05 | [IDS & IPS](./02-Devices/ids-ips.md) | ✅ Complete |
 | 06 | [Load Balancers](./02-Devices/load-balancers.md) | ✅ Complete |
@@ -32,7 +31,7 @@
 | 13 | [Network Protocols — HTTP, FTP, SSH](./04-Protocols/network-protocols.md) | ✅ Complete |
 | — | **— Module 3: SOC-Focused Networking —** | |
 | 14 | [Wireless Networking](./06-Wireless/notes.md) | ✅ Complete |
-| 15 | [VPNs](./06-Wireless/vpns.md) | 🔄 Coming soon |
+| 15 | [VPNs](./06-Wireless/vpns.md) | ✅ Complete |
 | 16 | [Network Monitoring](./07-Monitoring/notes.md) | 🔄 Coming soon |
 | 17 | [SIEM Basics](./07-Monitoring/siem.md) | 🔄 Coming soon |
 | 18 | [Incident Response Fundamentals](./07-Monitoring/incident-response.md) | 🔄 Coming soon |
@@ -45,27 +44,39 @@
 networking-notes/
 │
 ├── 01-OSI-Model/
-│   └── notes.md
+│   └── notes.md                  ✅ OSI Model
 │
 ├── 02-Devices/
-│   ├── routers.md
-│   ├── switches.md
-│   ├── firewalls.md
-│   ├── ids-ips.md
-│   ├── load-balancers.md
-│   └── proxies.md
+│   ├── routers.md                ✅ Routers
+│   ├── switches.md               ✅ Switches
+│   ├── firewalls.md              ✅ Firewalls
+│   ├── ids-ips.md                ✅ IDS & IPS
+│   ├── load-balancers.md         ✅ Load Balancers
+│   ├── proxies.md                ✅ Proxies
+│   └── nas-san.md                ✅ NAS & SAN
 │
 ├── 03-TCP-IP/
-│   └── notes.md
+│   ├── notes.md                  ✅ TCP/IP Model
+│   └── vlans.md                  ✅ VLANs
 │
 ├── 04-Protocols/
-│   └── notes.md
+│   ├── dns-dhcp.md               ✅ DNS & DHCP
+│   └── network-protocols.md      ✅ HTTP, FTP, SSH
 │
 ├── 05-Subnetting/
-│   └── notes.md
+│   └── notes.md                  ✅ Subnetting
+│
+├── 06-Wireless/
+│   ├── notes.md                  ✅ Wireless Networking
+│   └── vpns.md                   ✅ VPNs
+│
+├── 07-Monitoring/
+│   ├── notes.md                  🔄 Network Monitoring
+│   ├── siem.md                   🔄 SIEM Basics
+│   └── incident-response.md      🔄 Incident Response Fundamentals
 │
 ├── diagrams/
-│   └── (network diagrams, exported from draw.io)
+│   └── (network diagrams exported from draw.io / Canva)
 │
 └── README.md
 ```
@@ -107,7 +118,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[██████████████░░░░░░] 14/20 topics complete
+[███████████████░░░░░] 15/20 topics complete
 ```
 
 Updated as new topics are added. Follow along!
