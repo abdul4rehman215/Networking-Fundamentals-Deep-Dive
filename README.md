@@ -6,7 +6,7 @@
 **Author:** Musfira Zafar · [LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · [GitHub](https://github.com/MUSFIRA-ZAFAR)
 
 ![Status](https://img.shields.io/badge/Status-Active%20%7C%20Daily%20Updates-1D9E75?style=flat)
-![Topics](https://img.shields.io/badge/Topics%20Covered-17-378ADD?style=flat)
+![Topics](https://img.shields.io/badge/Topics%20Covered-18-378ADD?style=flat)
 ![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat)
 
 ---
@@ -34,7 +34,7 @@
 | 15 | [VPNs](./06-Wireless/vpns.md) | ✅ Complete |
 | 16 | [Network Monitoring](./07-Monitoring/notes.md) | ✅ Complete |
 | 17 | [SIEM Basics](./07-Monitoring/siem.md) | ✅ Complete |
-| 18 | [Incident Response Fundamentals](./07-Monitoring/incident-response.md) | 🔄 Coming soon |
+| 18 | [Incident Response Fundamentals](./07-Monitoring/incident-response.md) | ✅ Complete |
 
 ---
 
@@ -73,7 +73,7 @@ networking-notes/
 ├── 07-Monitoring/
 │   ├── notes.md                  ✅ Network Monitoring
 │   ├── siem.md                   ✅ SIEM Basics
-│   └── incident-response.md      🔄 Incident Response Fundamentals
+│   └── incident-response.md      ✅ Incident Response Fundamentals
 │
 ├── diagrams/
 │   └── (network diagrams exported from draw.io / Canva)
@@ -118,7 +118,7 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[█████████████████░░░] 17/20 topics complete
+[██████████████████░░] 18/20 topics complete — 🎉 Module 3 Complete!
 ```
 
 Updated as new topics are added. Follow along!
