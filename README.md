@@ -18,6 +18,7 @@
 | — | **— Module 1: Networking Devices & Fundamentals —** | |
 | 01 | [OSI Model](./01-OSI-Model/notes.md) | ✅ Complete |
 | 02 | [Routers](./02-Devices/routers.md) | ✅ Complete |
+| 03 | [Switches](./03-Devices/switches.md) | ✅Complete |
 | 04 | [Firewalls](./02-Devices/firewalls.md) | ✅ Complete |
 | 05 | [IDS & IPS](./02-Devices/ids-ips.md) | ✅ Complete |
 | 06 | [Load Balancers](./02-Devices/load-balancers.md) | ✅ Complete |
