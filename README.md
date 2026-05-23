@@ -5,9 +5,10 @@
 
 **Author:** Musfira Zafar · [LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · [GitHub](https://github.com/MUSFIRA-ZAFAR)
 
-![Status](https://img.shields.io/badge/Status-Active%20%7C%20Daily%20Updates-1D9E75?style=flat)
+![Status](https://img.shields.io/badge/Status-✅%20Complete-1D9E75?style=flat)
 ![Topics](https://img.shields.io/badge/Topics%20Covered-18-378ADD?style=flat)
 ![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat)
+![Modules](https://img.shields.io/badge/Modules-3%20Complete-F0997B?style=flat)
 
 ---
 
@@ -18,7 +19,7 @@
 | — | **— Module 1: Networking Devices & Fundamentals —** | |
 | 01 | [OSI Model](./01-OSI-Model/notes.md) | ✅ Complete |
 | 02 | [Routers](./02-Devices/routers.md) | ✅ Complete |
-| 03 | [Switches](./03-Devices/switches.md) | ✅Complete |
+| 03 | [Switches](./02-Devices/switches.md) | ✅ Complete |
 | 04 | [Firewalls](./02-Devices/firewalls.md) | ✅ Complete |
 | 05 | [IDS & IPS](./02-Devices/ids-ips.md) | ✅ Complete |
 | 06 | [Load Balancers](./02-Devices/load-balancers.md) | ✅ Complete |
@@ -76,9 +77,6 @@ networking-notes/
 │   ├── siem.md                   ✅ SIEM Basics
 │   └── incident-response.md      ✅ Incident Response Fundamentals
 │
-├── diagrams/
-│   └── (network diagrams exported from draw.io / Canva)
-│
 └── README.md
 ```
 
@@ -119,10 +117,18 @@ This repo isn't just networking theory — every topic is studied through the le
 ## 📈 Progress Tracker
 
 ```
-[██████████████████░░] 18/20 topics complete — 🎉 Module 3 Complete!
+[██████████████████] 18/18 topics complete — ✅ Repo Complete!
 ```
 
-Updated as new topics are added. Follow along!
+```
+Module 1 — Networking Devices & Fundamentals  ✅  8 topics
+Module 2 — Core Networking Concepts           ✅  5 topics
+Module 3 — SOC-Focused Networking             ✅  5 topics
+─────────────────────────────────────────────────────────
+Total                                         ✅  18 topics
+```
+
+> This repo is complete. Further learning continues in dedicated repositories. Follow along on [LinkedIn](https://www.linkedin.com/in/musfira-zafar/) and [GitHub](https://github.com/MUSFIRA-ZAFAR)!
 
 ---
 
@@ -130,6 +136,8 @@ Updated as new topics are added. Follow along!
 
 I'm Musfira, a cybersecurity student from Multan, Pakistan, working toward my first SOC Analyst role.
 I document everything I learn — publicly — so the journey is transparent and useful for others too.
+
+This repo documents **18 networking topics across 3 modules** — built one day at a time alongside daily LinkedIn posts. The learning continues in new repositories.
 
 📬 Connect on [LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · Follow on [GitHub](https://github.com/MUSFIRA-ZAFAR)
 
