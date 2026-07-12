@@ -6,7 +6,7 @@
 **Author:** Musfira Zafar · [LinkedIn](https://www.linkedin.com/in/musfira-zafar/) · [GitHub](https://github.com/MUSFIRA-ZAFAR)
 
 ![Status](https://img.shields.io/badge/Status-✅%20Complete-1D9E75?style=flat)
-![Topics](https://img.shields.io/badge/Topics%20Covered-18-378ADD?style=flat)
+![Topics](https://img.shields.io/badge/Topics%20Covered-19-378ADD?style=flat)
 ![Source](https://img.shields.io/badge/Source-Professor%20Messer-D4537E?style=flat)
 ![Modules](https://img.shields.io/badge/Modules-3%20Complete-F0997B?style=flat)
 
@@ -31,6 +31,7 @@
 | 11 | [VLANs](./03-TCP-IP/vlans.md) | ✅ Complete |
 | 12 | [DNS & DHCP](./04-Protocols/dns-dhcp.md) | ✅ Complete |
 | 13 | [Network Protocols — HTTP, FTP, SSH](./04-Protocols/network-protocols.md) | ✅ Complete |
+| 14 | [ICMP — Ping vs ICMP, Traceroute, Attacks](./04-Protocols/icmp.md) | ✅ Complete |
 | — | **— Module 3: SOC-Focused Networking —** | |
 | 14 | [Wireless Networking](./06-Wireless/notes.md) | ✅ Complete |
 | 15 | [VPNs](./06-Wireless/vpns.md) | ✅ Complete |
@@ -63,7 +64,8 @@ networking-notes/
 │
 ├── 04-Protocols/
 │   ├── dns-dhcp.md               ✅ DNS & DHCP
-│   └── network-protocols.md      ✅ HTTP, FTP, SSH
+│   ├── network-protocols.md      ✅ HTTP, FTP, SSH
+│   └── icmp.md                   ✅ ICMP — Ping, Traceroute, Attacks
 │
 ├── 05-Subnetting/
 │   └── notes.md                  ✅ Subnetting
